@@ -1,6 +1,9 @@
 # AM-Profiles
 additive manufacturing slicing profiles for various machines
-Use Orca Slicer for best results
+
+*Use Orca Slicer for best results*
+
+---
 
 # How to use
 1) Download your desired profile (.3MF)
